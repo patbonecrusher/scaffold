@@ -13,7 +13,7 @@ npm i -g parcel-bundler
 ## To test
 
 ``` bash
-git clone thisrepo
+git clone https://github.com/patbonecrusher/scaffold.git
 
 yarn
 # or
