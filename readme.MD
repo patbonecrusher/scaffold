@@ -23,7 +23,7 @@ npm i
 parcel src/index.html
 ```
 
-In vs code, debug the using Launch Chrome... configuration.
+In vs code, debug using the Launch Chrome... configuration.
 
 _Note_ Any breakpoint added before starting the debugger may not trigger.  They work fine once the the app is running in chrome.  Then you can add breakpoint and refresh the chrome page.
 
