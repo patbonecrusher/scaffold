@@ -2,7 +2,7 @@ import Parse from 'parse';
 
 Parse.serverURL = "https://parseapi.back4app.com";
 Parse.User._currentUser = new Parse.User();
-Parse.initialize("fNzUO93vYbxhEjGMCrGMPzIlHMuN41228lBjlgD1", "ssTKRnqHotbNDwB7zh7iT63UbREX9NHaD6CYetFE"); // Back4App Test database
+Parse.initialize("keys", "keys"); // Back4App Test database
 
 export default class EBParse {
     
